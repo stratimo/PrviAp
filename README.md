@@ -1,2 +1,2 @@
 # PrviAp
-test
+prva aplikacija u vali :D
