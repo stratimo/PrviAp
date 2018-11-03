@@ -9,7 +9,7 @@ public class PrviAp : Gtk.Application {
 
     protected override void activate () {
 
-        var label = new Gtk.Label ("Vala i comming :D");
+        var label = new Gtk.Label ("Vala i comming :D xo");
 
         var main_window = new Gtk.ApplicationWindow (this);
         main_window.default_height = 300;
