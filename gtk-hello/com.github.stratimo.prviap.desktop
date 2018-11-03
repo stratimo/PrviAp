@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PrviAp
+GenericName=Prva Applikacija Vala
+Comment=Vala i Gtk
+Categories=Internet
+Exec=com.github.stratimo.prviap
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Prva;Aplikacija;Valaa
